@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "60FFD715-C046-4250-AD20-A9C214ABD6CF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "00345202-6309-4820-91D4-C2A8149C7B9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100005b16">
+            <Locations>
+               <Location
+                  uuid = "00345202-6309-4820-91D4-C2A8149C7B9E - a7efbc9026700894"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestEnum.show&lt;T&gt;(val: inout T) -&gt; ()"
+                  moduleName = "TestEnum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/likunkun/Other/TestEnum/TestEnum/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "6588B932-7679-4C8F-8476-888140D3F48C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100005428">
+            <Locations>
+               <Location
+                  uuid = "6588B932-7679-4C8F-8476-888140D3F48C - 83bbaddd775a4ae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "initializeWithTake value witness for TestEnum.MemsWrapper"
+                  moduleName = "TestEnum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/likunkun/Other/TestEnum/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "23019225-607E-410B-9768-3E11A13F2CEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100005b4b">
+            <Locations>
+               <Location
+                  uuid = "23019225-607E-410B-9768-3E11A13F2CEF - a7efbc9026700894"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestEnum.show&lt;T&gt;(val: inout T) -&gt; ()"
+                  moduleName = "TestEnum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/likunkun/Other/TestEnum/TestEnum/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "187">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
